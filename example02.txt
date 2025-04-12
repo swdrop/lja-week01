@@ -1,1 +1,1 @@
-This is text to populate the second file added to my first GitHub repository.
+# This is text to populate the second file added to my first GitHub repository.
